@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.msmolen.allegrotask","l":"AllegrotaskApplication"},{"p":"com.msmolen.allegrotask","l":"Movie"},{"p":"com.msmolen.allegrotask","l":"MovieController"}]
